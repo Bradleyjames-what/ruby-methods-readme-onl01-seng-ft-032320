@@ -1,4 +1,4 @@
-# Methods in Ruby
+ruby# Methods in Ruby
 
 ## Overview
 
@@ -211,6 +211,7 @@ File: `greeting.rb`
 def greeting
   puts "Hello World"
 end
+
 ```
 
 Save your file and run it with `ruby greeting.rb`. You'll see:
