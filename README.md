@@ -208,6 +208,9 @@ following code in it:
 File: `greeting.rb`
 
 ```ruby
+def greeting
+  puts "Hello World"
+end
 
 ```
 
